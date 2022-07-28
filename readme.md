@@ -12,8 +12,8 @@ I'm developer of Discord Bot 😐
 ![](https://github-profile-trophy.vercel.app/?username=conghoangdev)
 
 # Discord
-![! Water Dragon#7053](https://lanyard-profile-readme-nyria.vercel.app/api/972383714166321232)
-![](https://discordapp.com/api/v9/guilds/911173438708785153/widget.png?style=banner4)
+![https://discord.com/users/972383714166321232](https://lanyard-profile-readme-nyria.vercel.app/api/972383714166321232)
+![https://discord.gg/EthqNSC3Za](https://discordapp.com/api/v9/guilds/911173438708785153/widget.png?style=banner4)
 ![](https://discordapp.com/api/v9/guilds/931354918420353025/widget.png?style=banner2)
 
 ---
