@@ -12,9 +12,9 @@ I'm developer of Discord Bot 😐
 ![](https://github-profile-trophy.vercel.app/?username=conghoangdev)
 
 # Discord
-![! Water Dragon#7053](https://discord.com/users/972383714166321232)
-![Folody Community](https://discordapp.com/api/v7/guilds/911173438708785153/widget.png?style=banner2)
-![Fantasy Support](https://discordapp.com/api/v7/guilds/931354918420353025/widget.png?style=banner2)
+![! Water Dragon#7053](https://lanyard-profile-readme-nyria.vercel.app/api/972383714166321232)](https://discord.com/users/972383714166321232)
+![](https://discordapp.com/api/v7/guilds/911173438708785153/widget.png?style=banner2)
+![](https://discordapp.com/api/v7/guilds/931354918420353025/widget.png?style=banner2)
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
